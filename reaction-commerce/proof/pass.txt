@@ -1,0 +1,5 @@
+  IMPORTANT! DEFAULT ADMIN INFO
+
+    EMAIL/LOGIN: ptmrmaxe@localhost
+
+    PASSWORD: s0bbFIiO
